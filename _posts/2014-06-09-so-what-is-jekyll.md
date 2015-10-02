@@ -19,3 +19,5 @@ and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
 It also ties in nicely to [Github Pages](https://pages.github.com/).
 
 Learn more about Jekyll on their [website](http://jekyllrb.com/).
+
+> this is a cite
